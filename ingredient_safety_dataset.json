@@ -1,0 +1,23 @@
+{
+  "Cetyl Alcohol": {
+    "overall_safety": "Safe",
+    "skin_type_specific": {
+      "acne-prone": "May be mildly comedogenic for some",
+      "sensitive": "Generally safe and soothing"
+    }
+  },
+  "Ceteareth-20": {
+    "overall_safety": "Irritant",
+    "skin_type_specific": {
+      "acne-prone": "Can increase penetration of harmful substances",
+      "sensitive": "Known to cause irritation in sensitive skin"
+    }
+  },
+  "Tocopherol": {
+    "overall_safety": "Comedogenic",
+    "skin_type_specific": {
+      "acne-prone": "Can clog pores",
+      "dry": "Can help with moisture retention"
+    }
+  }
+}
